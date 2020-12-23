@@ -1,5 +1,4 @@
 
-test component have html and ts file in it
 
 1. test.component.ts( main typescript file in component)
 
